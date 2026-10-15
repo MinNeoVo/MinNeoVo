@@ -1,23 +1,37 @@
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:24283B,100:7AA2F7&height=210&section=header&text=Tien%20Vo&fontSize=55&fontColor=C0CAF5&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=16" alt="Profile banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tien+Vo+%F0%9F%91%8B;IT+Student+at+FPT+University;Learning+Java+%7C+Spring+Boot+%7C+React;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+<div align="center">
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:1E293B,75:334E8A,100:7AA2F7&height=230&section=header&text=TIEN%20VO&fontSize=62&fontColor=E0F2FE&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20IN%20PROGRESS&descSize=16&descColor=A5B4FC&descAlignY=58&animation=fadeIn"
+  alt="Tien Vo - Developer Profile"
+/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&lines=IT+Student+%40+FPT+University;Building+with+React+%26+Spring+Boot;Learning+by+Building+Real+Projects"
+  alt="Typing introduction"
+/>
+
+<br/>
+
+<a href="https://github.com/MinNeoVo">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=E0F2FE" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="mailto:votienne1605@gmail.com">
+  <img src="https://img.shields.io/badge/Contact_Me-1E293B?style=for-the-badge&logo=gmail&logoColor=7DD3FC" alt="Email"/>
 </a>
 
-<p>
-  <a href="https://github.com/MinNeoVo">
-    <img src="https://img.shields.io/badge/GitHub-24283B?style=for-the-badge&logo=github&logoColor=C0CAF5" alt="GitHub" />
-  </a>
-  
-  <a href="mailto:votienne1605@gmail.com">
-    <img src="https://img.shields.io/badge/Email-24283B?style=for-the-badge&logo=gmail&logoColor=F7768E" alt="Email" />
-  </a>
-</p>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/SQL_Server-Database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 
 </div>
 
 ---
+
 
 ## 👨‍💻 About Me
 
@@ -142,31 +156,42 @@ A responsive landing page for a peer-learning community that helps FPT Universit
 
 
 
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
 
-I'm open to learning opportunities, collaborative projects,  
-and software development internships.
+<p>
+  I'm open to learning opportunities, collaborative projects,<br/>
+  and software development internships.
+</p>
 
 <br/>
 
 <a href="https://github.com/MinNeoVo">
-  <img src="https://img.shields.io/badge/GitHub-24283B?style=for-the-badge&logo=github&logoColor=C0CAF5" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=E0F2FE" alt="GitHub"/>
 </a>
+&nbsp;
 <a href="mailto:votienne1605@gmail.com">
-  <img src="https://img.shields.io/badge/Email-24283B?style=for-the-badge&logo=gmail&logoColor=F7768E" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=7DD3FC" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<i>Learn by building. Improve by reflecting. Grow by collaborating.</i>
+<i>“Learn by building. Improve by reflecting. Grow by collaborating.”</i>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:24283B,100:1A1B27&height=100&section=footer&reversal=false" width="100%" alt="Footer banner" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,35:334E8A,70:1E293B,100:0B1020&height=150&section=footer"
+  alt="Tokyo Night wave footer"
+/>
 
 </div>
+
 
 
 </div>
