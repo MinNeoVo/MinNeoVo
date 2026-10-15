@@ -141,25 +141,32 @@ A responsive landing page for a peer-learning community that helps FPT Universit
 </div>
 
 
+
 ## 📫 Connect With Me
 
 <div align="center">
 
-I'm open to learning opportunities, collaborative projects, and software development internships.
+I'm open to learning opportunities, collaborative projects,  
+and software development internships.
 
-<a href="https://github.com/MinNeoVo">GitHub</a>
-&nbsp; · &nbsp;
+<br/>
 
-<a href="mailto:votienne1605@gmail.com">Email</a>
+<a href="https://github.com/MinNeoVo">
+  <img src="https://img.shields.io/badge/GitHub-24283B?style=for-the-badge&logo=github&logoColor=C0CAF5" alt="GitHub" />
+</a>
+<a href="mailto:votienne1605@gmail.com">
+  <img src="https://img.shields.io/badge/Email-24283B?style=for-the-badge&logo=gmail&logoColor=F7768E" alt="Email" />
+</a>
 
-<br />
+<br/><br/>
 
-*"Learn by building. Improve by reflecting. Grow by collaborating."*
+<i>Learn by building. Improve by reflecting. Grow by collaborating.</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:24283B,100:1A1B27&height=100&section=footer&reversal=false" width="100%" alt="Footer banner" />
 
 </div>
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:24283B,100:1A1B27&height=100&section=footer" alt="Footer banner" />
 
 </div>
