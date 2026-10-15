@@ -1,3 +1,4 @@
+<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:24283B,100:7AA2F7&height=210&section=header&text=Tien%20Vo&fontSize=55&fontColor=C0CAF5&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=16" alt="Profile banner" />
 
 <a href="https://git.io/typing-svg">
