@@ -87,7 +87,7 @@ A team project developed as part of the SWP391 course at FPT University.
 
 ---
 
-### 💡 Other Projects
+### 💡 Other Projects - Study Buddy_Landing Page
 
 A responsive landing page for a peer-learning community that helps FPT University students connect, find study partners, and learn together.
 
