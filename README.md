@@ -104,12 +104,12 @@ A team project developed as part of the SWP391 course at FPT University.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<a href="https://github.com/MinNeoVo">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MinNeoVo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<a href="https://github.com/MinNeoVo">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinNeoVo&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </a>
 
 </div>
