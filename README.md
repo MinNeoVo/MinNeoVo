@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1227" height="162" alt="image" src="https://github.com/user-attachments/assets/539d4592-68ce-4338-9113-27eb894d20c8" /><div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:24283B,100:7AA2F7&height=210&section=header&text=Tien%20Vo&fontSize=55&fontColor=C0CAF5&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=16" alt="Profile banner" />
 
@@ -127,15 +127,15 @@ A team project developed as part of the SWP391 course at FPT University.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/MinNeoVo/MinNeoVo/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/MinNeoVo/MinNeoVo/output/github-contribution-grid-snake.svg"
     />
     <img
       alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/MinNeoVo/MinNeoVo/output/github-contribution-grid-snake.svg"
       width="100%"
     />
   </picture>
