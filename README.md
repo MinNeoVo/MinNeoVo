@@ -1,5 +1,3 @@
-<img width="1227" height="162" alt="image" src="https://github.com/user-attachments/assets/539d4592-68ce-4338-9113-27eb894d20c8" /><div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:24283B,100:7AA2F7&height=210&section=header&text=Tien%20Vo&fontSize=55&fontColor=C0CAF5&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=16" alt="Profile banner" />
 
 <a href="https://git.io/typing-svg">
@@ -84,21 +82,21 @@ A team project developed as part of the SWP391 course at FPT University.
 **My contribution:** Full-stack development, UI implementation, API integration, and collaboration with the team.
 
 <!-- Replace this URL with the actual ChayBook repository link. -->
-[View ChayBook Repository](https://github.com/YOUR_USERNAME)
+[View ChayBook Repository](https://github.com/MinNeoVo/ChayBook)
 
 ---
 
 ### 💡 Other Projects
 
-<!-- Add projects you have actually completed. Duplicate this block as needed. -->
+A responsive landing page for a peer-learning community that helps FPT University students connect, find study partners, and learn together.
 
-**Project Name** — A short description of the problem it solves.
+**Role:** Frontend Developer — implemented the landing page UI, organized reusable React components, and integrated navigation to the Google Form for student registration.
 
-- **Role:** Your responsibilities.
-- **Technology:** Technologies actually used.
-- **What I learned:** A specific technical skill or challenge you addressed.
+**Technology:** React.js, Vite, Tailwind CSS, JavaScript, Git, GitHub, Vercel.
 
-[View Repository](https://github.com/YOUR_USERNAME)
+**What I learned:** Improved my skills in component-based UI development, responsive web design, reusable styling, Git workflow, and deploying a React application with Vercel.
+
+[View Repository](https://github.com/MinNeoVo/Studdy-Buddy-Website)
 
 ## 📊 GitHub Statistics
 
